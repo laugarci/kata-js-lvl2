@@ -1,5 +1,5 @@
 
-//Escribe una funcion que retorna sume los dos numeros que llegan por parametro y retorne true si es el resultado es igual o mayor que 10
+//Escribe una funcion que retorna los dos numeros que llegan por parametro y retorne true si es el resultado es igual o mayor que 10
 function sumAndReturn(num1, num2) {
 
 }
@@ -20,12 +20,12 @@ function twoArraysLen (str1, str2) {
 	//escribe el codigo aqui
 }
 
-//Escribe una funcion que use el metodo adecuado para ver cual de los dos numeros es mayor y retorne la resta del mayor y el mejor
+//Escribe una funcion que use el metodo adecuado para ver cual de los dos numeros es mayor y retorne la resta del mayor y el menor
 function calculate(num1, num2) {
 	//escribe el codigo aqui
 }
 
-//Escribe una funcion que corte la string que le llega por parametros y devuelva la primera palabra
+//Escribe una funcion que corte el string que le llega por parametros y devuelva la primera palabra
 function cutAndReturn(str) {
 	//escribe el codigo aqui
 
@@ -36,12 +36,11 @@ function elementinArray(array, element) {
 	//escribe el codigo aqui
 }
 
-//SIN USAR .length haz una funcion que calcule el tamano de un array(PISTA: puedes usar un bucle)
+//SIN USAR .length haz una funcion que calcule el tamano de un array
 function calculeLen(array) {
 	//escribe el codigo aqui
 
 }
-
 
 //Escribe una funcion que devuelva true si el numero que recibe es positivo y false si es negativo
 function isNegOrPos(array) {
