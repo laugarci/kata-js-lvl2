@@ -43,7 +43,7 @@ function calculeLen(array) {
 }
 
 //Escribe una funcion que devuelva true si el numero que recibe es positivo y false si es negativo
-function isNegOrPos(array) {
+function isNegOrPos(num) {
 	//escribe el codigo aqui
 }
 
