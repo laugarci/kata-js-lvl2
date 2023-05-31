@@ -1,5 +1,5 @@
 
-//Escribe una funcion que retorna los dos numeros que llegan por parametro y retorne true si es el resultado es igual o mayor que 10
+//Escribe una funcion que sume los dos numeros que llegan por parametro y retorne true si es el resultado es igual o mayor que 10
 function sumAndReturn(num1, num2) {
 
 }
@@ -47,7 +47,7 @@ function isNegOrPos(array) {
 	//escribe el codigo aqui
 }
 
-//Escribe una funcion que mire si el nombre que llega por parametro esta dentro de la cadena. Si lo esta, retorna false, si no lo esta, crea una nueva cadena, anade el nombre nuevo y retorna esa cadena
+//Escribe una funcion que mire si el nombre que llega por parametro esta dentro del array "arr". Si lo esta, retorna false, si no lo esta, crea una nueva cadena, anade el nombre nuevo y retorna esa cadena
 function isInside(name) {
 	const arr = ["Laura", "Pepa", "Manuel"];
 	//escribe el codigo aqui
